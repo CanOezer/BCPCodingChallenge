@@ -20,7 +20,6 @@ public class TemperatureProcessor implements DataProcessor<Weather, DayWithLowes
             }
         }
 
-        // Rückgabe eines TemperatureResult-Objekts
         return new DayWithLowestTemperature(minAvgTempDay, lowestAverageTemp);
     }
 }

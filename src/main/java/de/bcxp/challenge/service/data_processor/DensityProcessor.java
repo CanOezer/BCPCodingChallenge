@@ -22,7 +22,6 @@ public class DensityProcessor implements DataProcessor<Country, CountryDensity> 
             }
         }
 
-        // Rückgabe eines DensityResult-Objekts
         return new CountryDensity(highestDensCountry, highestDensity);
     }
 }
