@@ -1,0 +1,37 @@
+[
+  {
+    "countryName": "Austria",
+    "capitalOfTheCountry": "Vienna",
+    "accession": "1995",
+    "population": 8926000,
+    "areaSize": 83855.0
+  },
+  {
+    "countryName": "Belgium",
+    "capitalOfTheCountry": "Brussels",
+    "accession": "Founder",
+    "population": 11566041,
+    "areaSize": 30528.0
+  },
+  {
+    "countryName": "Bulgaria",
+    "capitalOfTheCountry": "Sofia",
+    "accession": "2007",
+    "population": 6916548,
+    "areaSize": 110994.0
+  },
+  {
+    "countryName": "France",
+    "capitalOfTheCountry": "Paris",
+    "accession": "Founder",
+    "population": 67595000,
+    "areaSize": 551695.0
+  },
+  {
+    "countryName": "Germany",
+    "capitalOfTheCountry": "Berlin",
+    "accession": "Founder",
+    "population": 83166711,
+    "areaSize": 357022.0
+  }
+]
